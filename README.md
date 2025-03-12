@@ -19,7 +19,7 @@ An AI-powered Resume Screening System built using NLP and Machine Learning techn
 ## 📌 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/resume-screener.git
+   git clone https://github.com/mohiuddin396/resume-screener.git
    cd resume-screener
    ```
 2. Install required dependencies:
@@ -48,5 +48,5 @@ An AI-powered Resume Screening System built using NLP and Machine Learning techn
 - 📅 Integration with job portals
 
 ---
-⚡ **Contributors:** Your Name  
-📧 Contact: your.email@example.com
+⚡ **Contributors:** Ghulam Mohi Ud Din 
+📧 Contact: mohi.course@gmail.com
